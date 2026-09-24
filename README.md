@@ -40,6 +40,4 @@ DACA meeskonnaprojekt, kus töötame UrbanStyle.ltd andmeanalüüsi ülesannete 
 
 See profiil ja portfoolio täienevad DACA programmi jooksul koos uute projektide, oskuste ja praktiliste töödega.
 
----
 
-*Andmeanalüütika õppimise teekond – samm-sammult praktilise portfoolioni.*

@@ -22,7 +22,7 @@ Minu isiklik DACA õppeprojektide ja portfoolio repository.
 
 [Vaata minu DACA portfooliot](https://github.com/mariannesisask-afk/daca-portfolio)
 
-### UrbanStyle.ltd – TURUNDUS
+### UrbanStyle.ltd – meeskond TURUNDUS
 
 DACA meeskonnaprojekt, kus töötame UrbanStyle.ltd andmeanalüüsi ülesannete kallal.
 

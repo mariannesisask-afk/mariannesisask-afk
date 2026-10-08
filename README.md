@@ -20,8 +20,7 @@ Minu eesmärk on arendada praktilisi oskusi andmete, andmebaaside, dokumentatsio
 
 Minu isiklik DACA õppeprojektide ja portfoolio repository.
 
-[Vaata minu DACA portfooliot](https://github.com/mariannesisask-afk/daca-portfolio)
-[Vaata minu DACA portfooliot] https://github.com/mariannesisask-afk/daca-portfolio/blob/main/README.md
+[Vaata minu DACA portfooliot](https://github.com/mariannesisask-afk/daca-portfolio/blob/main/README.md)
 
 ### UrbanStyle.ltd – meeskond TURUNDUS
 
